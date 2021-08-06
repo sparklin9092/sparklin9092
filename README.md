@@ -10,13 +10,14 @@
 
 業餘時間喜歡製作一些小項目，學習新技術、接觸新領域，大部分的項目都部署在 AWS。
 
-- 這是我的個人網站： [www.spark9092.com](https://www.spark9092.com)
+- 個人網站： [www.spark9092.com](https://www.spark9092.com)
 
-- 這是最近的作品： [致富寶典 - 您的個人理財記帳本](https://richnote.net)
-
-- 致富寶典的 FaceBook 粉絲專頁： [@RichNote.net](https://www.facebook.com/RichNote.net/)
-
-- 致富寶典的 Instagram 粉絲專頁： [@RichNote_net](https://www.instagram.com/richnote_net/)
+- 作品 1： [致富寶典 - 您的個人理財記帳本](https://richnote.net)
+  - 致富寶典的社群平台：
+    - LINE 官方帳號： [致富寶典 RichNote.net](https://page.line.me/richnote)
+    - FaceBook 粉絲專頁： [@RichNote.net](https://www.facebook.com/RichNote.net/)
+    - Youtube 官方頻道： [致富寶典 RichNote](https://www.youtube.com/channel/UCRY2uJHJwFgCagB_xJy7K8A)
+    - Instagram 官方帳號： [@RichNote_net](https://www.instagram.com/richnote_net/)
 
 期待參訪我的作品，順便留下一些評論，我會認真參考，改善有缺失的地方。
 
@@ -36,14 +37,15 @@ The cloud computing platform I'm accustomed to using is Amazon Web Services (AWS
 
 In my spare time, I like to make some small projects, learn new technologies, and get in touch with new fields.
 
-- This is my personal website: [www.spark9092.com](https://www.spark9092.com)
+- Personal Website: [www.spark9092.com](https://www.spark9092.com)
 
-- This is the most recent project: [致富寶典 - 個人理財記帳本](https://richnote.net)
+- Project 1: [致富寶典 - 個人理財記帳本](https://richnote.net)
   > (This is a Chinese website, there will be an international version in the future)
 
-- RichNote's FaceBook: [@RichNote.net](https://www.facebook.com/RichNote.net/)
-
-- RichNote's Instagram: [@RichNote_net](https://www.instagram.com/richnote_net/)
+  - Social platform for RichNote:
+    - Official Facebook: [@RichNote.net](https://www.facebook.com/RichNote.net/)
+    - Official Youtube: [RichNote](https://www.youtube.com/channel/UCRY2uJHJwFgCagB_xJy7K8A)
+    - Official Instagram: [@RichNote_net](https://www.instagram.com/richnote_net/)
 
 I look forward to visiting my work and leaving some comments by the way. I will refer to it carefully and improve the missing areas.
 
