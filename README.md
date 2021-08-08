@@ -12,7 +12,7 @@
 
 - 個人網站： [www.spark9092.com](https://www.spark9092.com)
 
-- 作品 1： [致富寶典 - 您的個人理財記帳本](https://richnote.net)
+- 作品 1： [致富寶典 - 個人理財記帳本](https://richnote.net)
   - 致富寶典的社群平台：
     - LINE 官方帳號： [致富寶典 RichNote.net](https://page.line.me/richnote)
     - FaceBook 粉絲專頁： [@RichNote.net](https://www.facebook.com/RichNote.net/)
