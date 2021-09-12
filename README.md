@@ -1,12 +1,12 @@
 # 自我介紹
 
+###### tags: `個人`
+
 ## 中文
 
 ### 各位好 👋
 
-###### tags: `個人`
-
-我是林家瑋，來自台灣。
+我是林家瑋，也可以叫我 Spark，來自台灣。
 
 目前在[緯創軟體](https://www.wistronits.com/tw/)任職，擔任Java軟體工程師。
 
@@ -35,7 +35,7 @@
 
 ### Hello 👋
 
-I am Jia-Wei Lin, from Taiwan.
+I'm Jia-Wei Lin, you can also call me Spark, from Taiwan.
 
 Currently working at [Wistronits](https://www.wistronits.com/en/) as a Java software engineer.
 
@@ -58,3 +58,4 @@ In my spare time, I like to make some small projects, learn new technologies, an
 I look forward to visiting my work and leaving some comments by the way. I will refer to it carefully and improve the missing areas.
 
 Thanks! 😄
+
