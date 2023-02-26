@@ -18,15 +18,6 @@
 
 - 個人網站： [www.spark9092.com](https://www.spark9092.com)
 
-- 作品 1： [致富寶典 - 個人理財記帳本](https://richnote.net)
-  - 致富寶典的社群平台：
-    - LINE 官方帳號： [致富寶典 RichNote.net](https://page.line.me/richnote)
-    - FaceBook 粉絲專頁： [@RichNote.net](https://www.facebook.com/RichNote.net/)
-    - Youtube 官方頻道： [致富寶典 RichNote](https://www.youtube.com/channel/UCRY2uJHJwFgCagB_xJy7K8A)
-    - Instagram 官方帳號： [@RichNote_net](https://www.instagram.com/richnote_net/)
-
-期待參訪我的作品，順便留下一些評論，我會認真參考，改善有缺失的地方。
-
 謝謝 😄
 
 ---
@@ -46,16 +37,6 @@ The cloud computing platform I'm accustomed to using is Amazon Web Services (AWS
 In my spare time, I like to make some small projects, learn new technologies, and get in touch with new fields.
 
 - Personal Website: [www.spark9092.com](https://www.spark9092.com)
-
-- Project 1: [致富寶典 - 個人理財記帳本](https://richnote.net)
-  > (This is a Chinese website, there will be an international version in the future)
-
-  - Social platform for RichNote:
-    - Official Facebook: [@RichNote.net](https://www.facebook.com/RichNote.net/)
-    - Official Youtube: [RichNote](https://www.youtube.com/channel/UCRY2uJHJwFgCagB_xJy7K8A)
-    - Official Instagram: [@RichNote_net](https://www.instagram.com/richnote_net/)
-
-I look forward to visiting my work and leaving some comments by the way. I will refer to it carefully and improve the missing areas.
 
 Thanks! 😄
 
